@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guess My Number App</string>
+    <string name="srt_reset">reset</string>
+    <string name="str_arrow_up">press arrow up</string>
+    <string name="str_arrow_down">press arrow down</string>
+    <string name="str_success_desc">guess App has guessed the number</string>
+    <string name="str_question">is your number %d?</string>
+    <string name="str_success">your number is %d</string>
+</resources>
